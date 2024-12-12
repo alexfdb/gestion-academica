@@ -50,11 +50,11 @@ public class Examen {
     }
 
     /**
-     * Muestra los detalles del examen.
-     * @return os detalles del examen.
+     * Programa la fecha y la materia del examen.
+     * @return true si se programo.
      */
-    public String detalles() {
-        return "";
+    public boolean programar() {
+        return true;
     }
 
     @Override
